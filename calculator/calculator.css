@@ -1,0 +1,43 @@
+div {
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#title {
+  text-align: center;
+}
+
+#table {
+  margin: 0 auto;
+  font-size: 2em;
+  border-collapse: collapse;
+  border-color: pink;
+  color: brown;
+}
+
+.input {
+  text-align: right;
+}
+input {
+  text-align: right;
+  border: none;
+  font-size: 1em;
+}
+
+input:focus {
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: black;
+  text-align: center;
+  font-size: 0.7em;
+}
+  
+
+
+
+
+
+
