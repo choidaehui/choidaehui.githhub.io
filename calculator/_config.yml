@@ -253,7 +253,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/choidaehui/calculator
+# https://github.com/choidaehui
 # jekyll-archives:
 #   enabled:
 #     - categories
