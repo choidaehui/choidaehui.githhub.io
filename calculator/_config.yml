@@ -253,7 +253,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/choidaehui
+# https://github.com/choidaehui/choidaehui.githhub.io.git
 # jekyll-archives:
 #   enabled:
 #     - categories
