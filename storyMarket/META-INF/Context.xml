@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Context>
@@ -18,4 +19,26 @@
 
 
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+<Resource
+	name="jdbc/storymarketdb"
+	auth="Container"
+	type="javax.sql.DataSource"
+	driverClassName="com.mysql.jdbc.Driver"
+	url="jdbc:mysql://localhost:3306/storymarketdb?serverTimezone=Asia/Seoul"
+	username="root"
+	password="1234"
+/>
+	
+
+
+
+
+
+
+
+>>>>>>> e6cecd277d83b652e245977eca674e0288ab266c
 </Context>
